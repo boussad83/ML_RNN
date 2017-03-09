@@ -1,0 +1,1 @@
+# RNN without any BPTT algorithm
