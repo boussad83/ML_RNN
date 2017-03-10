@@ -1,1 +1,1 @@
-# RNN without any BPTT algorithm
+# RNN with only feed forward algorithm
